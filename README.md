@@ -5,3 +5,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/fjnovais?label=Follow&style=social)
 
 * Check it out my _Resume_ at my personal [website](https://fjnovais.github.io/)
+
+### Hey 👋
+**Be welcome to my profile on Github. :octocat:**
+<p>In here, you will have access to some of my projects. Please, feel free to send me suggestions, critics, and improvements.</p>
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjnovais&layout=compact)
